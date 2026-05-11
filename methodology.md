@@ -1,6 +1,6 @@
-# Methodology Document — Part A
+# Methodology Document - Part A
 ## DeepThought Business Analytics Assignment
-**City:** Indore (including Pithampur Industrial Area / Pithampur SEZ — within Indore's manufacturing ecosystem)  
+**City:** Indore (including Pithampur Industrial Area / Pithampur SEZ - within Indore's manufacturing ecosystem)  
 **Segment:** Complex APIs & Regulated Pharma + Custom Synthesis & Specialty Chemicals (Basket B + Basket A)  
 **Research Date:** May 2026
 
@@ -14,9 +14,9 @@ Indore is India's 8th largest industrial city and Central India's dominant manuf
 - **Sanwer Road Industrial Area** — pharma and chemical cluster
 - **Rau-Pigdambar belt** — API and specialty chemical manufacturers
 
-The Indore pharma cluster has 350+ pharmaceutical units and is ranked 11th nationally in pharma exports (FY2024-25), up from 15th — a strong tailwind signal.
+The Indore pharma cluster has 350+ pharmaceutical units and is ranked 11th nationally in pharma exports (FY2024-25), up from 15th - a strong tailwind signal.
 
-**My justification for including Pithampur in "Indore":** The assignment guideline states "city means operational presence, not just registered office." Pithampur is 28km from Indore city centre and is effectively the industrial zone of the Indore metropolitan area — the way Navi Mumbai is to Mumbai or Faridabad is to Delhi. All companies I've included have their primary manufacturing operations here. I've noted and scored borderline cases (like Kusum Healthcare, whose HQ is in Delhi) separately.
+**My justification for including Pithampur in "Indore":** The assignment guideline states "city means operational presence, not just registered office." Pithampur is 28km from Indore city centre and is effectively the industrial zone of the Indore metropolitan area - the way Navi Mumbai is to Mumbai or Faridabad is to Delhi. All companies I've included have their primary manufacturing operations here. I've noted and scored borderline cases (like Kusum Healthcare, whose HQ is in Delhi) separately.
 
 ---
 
@@ -94,7 +94,7 @@ Many large Indian pharma companies (Cipla, Lupin, Sun, Glenmark, Ipca) have a si
 Symbiotec would have been a textbook Federer company — Indore-based, specialty corticosteroid APIs, technical leadership. But PE acquisition (Rosewood/MO PE in 2018) and revenue crossing Rs.500Cr makes it a fail on two counts. This was a major learning: always check ownership structure, not just technical capability.
 
 **Pattern 3: CIRP = immediate disqualify**  
-Parenteral Drugs India was founded in 1983, exports to 70+ countries, has WHO-GMP — sounds great. But it's under Corporate Insolvency Resolution Process. The "no longer promoter-driven" test applies here too.
+Parenteral Drugs India was founded in 1983, exports to 70+ countries, has WHO-GMP - sounds great. But it's under Corporate Insolvency Resolution Process. The "no longer promoter-driven" test applies here too.
 
 **Pattern 4: "Company name sounds right" is not evidence**  
 Rusan Healthcare (distribution) sounds like it should be the same as Rusan Pharma (manufacturer). It's not. Always verify entity vs. operating company.
@@ -139,4 +139,4 @@ From ~75-100 companies investigated:
 
 ---
 
-*Methodology by: [Your Name] | Assignment for DeepThought Business Analytics Internship*
+*Methodology by: Aman Gupta | Assignment for DeepThought Business Analytics Internship
